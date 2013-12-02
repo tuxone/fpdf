@@ -1,5 +1,5 @@
 {
-    "name": "startupjob/fpdf",
+    "name": "tuxone/fpdf",
     "type": "library",
     "description": "Generation to PDF for use with Symfony 2.1 - developed by StartupJob",
     "keywords": [
